@@ -1,2 +1,2 @@
 # react-facts-site
- Scrimba React Facts Site
+ Scrimba static react facts site
